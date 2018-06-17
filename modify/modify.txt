@@ -1,2 +1,3 @@
 new modify txt.
 will add function of recharge.
+add a new record function.
