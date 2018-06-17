@@ -8,3 +8,5 @@ start to develop index-ui-function
 start to write the own-ui-function.
 =================================
 finish to bet funtion.
+-----------------------------
+finish the notice function.
