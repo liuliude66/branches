@@ -2,3 +2,5 @@ new modify txt.
 will add function of recharge.
 add a new record function.
 finish my recharge function.
+-----------------------------
+start to write the own-ui-function.
