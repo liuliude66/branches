@@ -15,3 +15,5 @@ finish to rec-function
 
 -----------------------------
 I am man1,i am function-1.
+-----------------------------
+I am man2. i am doing function-2.
