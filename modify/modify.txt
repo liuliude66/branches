@@ -10,3 +10,5 @@ start to write the own-ui-function.
 finish to bet funtion.
 -----------------------------
 finish the notice function.
+-----------------------------
+finish to rec-function
