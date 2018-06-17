@@ -12,3 +12,5 @@ finish to bet funtion.
 finish the notice function.
 -----------------------------
 finish to rec-function
+-----------------------------
+I am man2. i am doing function-2.
