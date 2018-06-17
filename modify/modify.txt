@@ -12,3 +12,6 @@ finish to bet funtion.
 finish the notice function.
 -----------------------------
 finish to rec-function
+
+-----------------------------
+I am man1,i am function-1.
